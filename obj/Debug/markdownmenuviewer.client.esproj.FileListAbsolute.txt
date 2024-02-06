@@ -1,0 +1,1 @@
+d:\1-VScode html\Project\MarkdownMenuViewer-master\markdownmenuviewer.client\obj\Debug\markdownmenuviewer.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,103 @@
+{
+    "Files": {
+      "type": "folder",
+      "name": "Ana Dizin",
+      "data": [
+        {
+          "type": "folder",
+          "name": "MarkdownMenuViewer.Server",
+          "data": [
+            {
+              "type": "folder",
+              "name": "src",
+              "data": [
+                {
+                  "type": "file",
+                  "name": "index.js"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "public",
+              "data": [
+                {
+                  "type": "file",
+                  "name": "index.ts"
+                }
+              ]
+            },
+            {
+              "type": "file",
+              "name": "index.html"
+            },
+            {
+              "type": "folder",
+              "name": "data",
+              "data": [
+                {
+                  "type": "folder",
+                  "name": "images",
+                  "data": [
+                    {
+                      "type": "file",
+                      "name": "image.jpg"
+                    },
+                    {
+                      "type": "file",
+                      "name": "image2.jpg"
+                  
+                      
+                    },
+                    {
+                      "type": "file",
+                      "name": "image3.jpg"
+                    }
+                  ]
+                },
+                {
+                  "type": "file",
+                  "name": "logo.svg"
+                }
+              ]
+            },
+            {
+              "type": "file",
+              "name": "style.css"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Markdownmenuviewer.client",
+          "data": [
+            {
+              "type": "file",
+              "name": "typscript-1.ts"
+            },
+            {
+              "type": "file",
+              "name": "typscript-2.ts"
+            },
+            {
+              "type": "file",
+              "name": "typscrip3.ts"
+            }
+          ]
+        },
+        {
+          "type": "file",
+          "name": ".gitattributes"
+        },
+        {
+          "type": "file",
+          "name": ".gitignore"
+        },
+        {
+          "type": "file",
+          "name": "MarkdownMenuViewer.sln"
+        }
+      ]
+    }
+  }
+  
